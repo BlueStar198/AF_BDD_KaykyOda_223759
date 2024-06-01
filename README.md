@@ -1,5 +1,7 @@
 # AF_BDD_KaykyOda_223759
+## ETAPA 2 ESTA NA PASTA BDD DO BRANCH CONTA_TESTE
 
+## ETAPA 1
 ## Story
 
 Imagine que você está planejando alugar um carro para uma viagem. Para facilitar esse processo, uma empresa de locação de carros desenvolveu um sistema com diferentes comportamentos, dependendo das circunstâncias da locação e do cliente.
